@@ -1,0 +1,11 @@
+.list {
+  border: 1px solid rgba(158, 158, 164, 0.25);
+  border-radius: 4px;
+  font-family: "Cascadia Code";
+  width: 300px;
+  text-align: center;
+}
+
+.icon {
+  padding-right: 5px;
+}
